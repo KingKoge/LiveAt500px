@@ -1,4 +1,4 @@
-package com.ssru.mrsmile.liveat500px.activity;
+package com.ssru.mrsmile.liveat500px.activity;//test from branch1
 
 import android.content.res.Configuration;
 import android.support.annotation.Nullable;
